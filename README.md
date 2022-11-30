@@ -10,7 +10,7 @@
   
 # :page_facing_up: Funcionamento do projeto
 
-- `Funcionamento 1`: Deve receber uma matriz de objetos contendo os nomes dos atletas e as cinco notas de cada um.
+- `Funcionamento 1`: Deve receber uma matriz de objetos contendo os nomes dos atletas e as notas de cada um.
 - `Funcionamento 2`: Calcula a média das notas sem considerar a maior e menor nota dos atletas.
 - `Funcionamento 3`: Apresenta ao usuário por meio do console o nome de cada atleta, seguido das notas e da média calculada.
 
